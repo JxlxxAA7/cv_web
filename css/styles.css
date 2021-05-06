@@ -45,7 +45,7 @@ html {
     font-size: 27px;
     color: blue;
     padding: 35vh;
-    background-color: white;
+    background-color: skyblue;
 }
 
 #header i {
@@ -81,10 +81,15 @@ html {
     color: black;
 }
 
+#mapa {
+    background-color: #CDE5F3;
+}
+
 #section-1 {
     padding-top: 5%;
     padding-bottom: 5%;
     width: 100%;
+    background-color: #CDE5F3;
 }
 
 #section-1 a {
@@ -148,6 +153,7 @@ html {
     padding-top: 5%;
     padding-bottom: 5%;
     width: 100%;
+    background-color: #CDE5F3;
 }
 
 #section-5 h1 {
